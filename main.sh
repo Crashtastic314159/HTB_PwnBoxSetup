@@ -1,3 +1,3 @@
 #!/binbash
 sudo parrot-upgrade
-./wordlists/sh
+./wordlists.sh
