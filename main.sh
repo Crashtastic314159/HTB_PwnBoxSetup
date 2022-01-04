@@ -1,0 +1,2 @@
+#!/binbash
+sudo parrot-upgrade
