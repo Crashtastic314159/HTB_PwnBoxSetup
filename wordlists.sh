@@ -1,4 +1,4 @@
-#!/bin.bash
+#!/bin/bash
 
 sudo apt update && sudp apt install wordlists
 sudo mkdir /usr/share/wordlists/SecLists
