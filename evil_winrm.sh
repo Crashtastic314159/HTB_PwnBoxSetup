@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo gem install evil_winrm
+sudo gem install evil-winrm
