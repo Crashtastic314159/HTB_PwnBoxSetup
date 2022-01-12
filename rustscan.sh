@@ -1,4 +1,4 @@
 #!/bin/bash
 cd /tmp
 wget https://github.com/RustScan/RustScan/releases
-sudo dpkg -iy *.deb
+sudo dpkg -i *.deb
