@@ -2,5 +2,5 @@
 sudo parrot-upgrade -y
 ./wordlists.sh
 ./rustscan.sh
-./code.sh
+#./code.sh
 ./stand_alones.sh
